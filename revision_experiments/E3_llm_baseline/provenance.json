@@ -1,0 +1,30 @@
+{
+  "python": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+  "platform": "Windows-10-10.0.19045-SP0",
+  "gnpy_version_independent_reproduction": "2.14.2",
+  "public_repository": "hpn-bristol/LLM-Driven-Multi-Agent-Optical-Digital-Twin-for-Automated-Data-Generation",
+  "public_repository_commit_inspected": "f11545c642976607a87b5dc7b9c91b5b8753e0e9",
+  "sources": {
+    "scenarios.csv": {
+      "url": "https://raw.githubusercontent.com/hpn-bristol/LLM-Driven-Multi-Agent-Optical-Digital-Twin-for-Automated-Data-Generation/main/GNPy_8_channels/scenarios.csv",
+      "sha256": "252ef5012625ebedc58c0a7964826e52e4f25e0eb8a996c5ea1673466ac0c837"
+    },
+    "artifacts.zip": {
+      "url": "https://raw.githubusercontent.com/hpn-bristol/LLM-Driven-Multi-Agent-Optical-Digital-Twin-for-Automated-Data-Generation/main/GNPy_8_channels/artifacts.zip",
+      "sha256": "563a6051fcd1d868a24baf04576cd97fa2caef4f0a89f4cfaca4da589f2d87f5"
+    },
+    "report.txt": {
+      "url": "https://raw.githubusercontent.com/hpn-bristol/LLM-Driven-Multi-Agent-Optical-Digital-Twin-for-Automated-Data-Generation/main/GNPy_8_channels/report.txt",
+      "sha256": "2fdbc707802ac36c491855df83ad2b1840076cefb166509570d787a150412ab2"
+    },
+    "NDFF_Testbed.json": {
+      "url": "https://raw.githubusercontent.com/hpn-bristol/LLM-Driven-Multi-Agent-Optical-Digital-Twin-for-Automated-Data-Generation/main/NDFF_Testbed.json",
+      "sha256": "ef34ade11c6bbd589225ad6d4e1f130dad3877b64a8ff6978a0370cac22cacdf"
+    },
+    "eqpt_config_NDFF.json": {
+      "url": "https://raw.githubusercontent.com/hpn-bristol/LLM-Driven-Multi-Agent-Optical-Digital-Twin-for-Automated-Data-Generation/main/eqpt_config_NDFF.json",
+      "sha256": "01c4ca8f0ac29113cb37ddcbcf584390875cb3a5118642e625d1ce0affc6a4c3"
+    }
+  },
+  "runtime_seconds": 249.2402684688568
+}

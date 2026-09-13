@@ -1,0 +1,39 @@
+{
+  "created": "2026-09-07T17:43:56.9268481+08:00",
+  "runtime_seconds_sum": 254.03363529971102,
+  "platform": "Microsoft Windows NT 10.0.19045.0",
+  "driver_python": "3.12.10",
+  "historical_python": "Python 3.9.13",
+  "historical_gnpy_tag": "v2.12",
+  "historical_gnpy_commit": "7ce665010970f57e46672db1ec0864ae448077e6",
+  "strict_gnpy_version": "2.14.2",
+  "strict_libyang_version": "0.0.14",
+  "files": {
+    "topology": {
+      "path": "source/NDFF_Testbed.json",
+      "sha256": "ef34ade11c6bbd589225ad6d4e1f130dad3877b64a8ff6978a0370cac22cacdf",
+      "bytes": 10757
+    },
+    "recovered_original_equipment": {
+      "path": "source/eqpt_config_NDFF_original.json",
+      "sha256": "18c5679cbc20db9e52d184823f31c1a8a7f95ab3a7ebe0a750cd576ab15f1870",
+      "bytes": 10487
+    },
+    "schema_fixed_equipment": {
+      "path": "source/eqpt_config_NDFF_schema_fixed.json",
+      "sha256": "f4cb135c58d9274947266301d21ac5a6465b67e50e89725afb28342fc31c0920",
+      "bytes": 9948
+    },
+    "published_artifacts_archive": {
+      "path": "../E4_gnpy_audit/source/artifacts.zip",
+      "sha256": "563a6051fcd1d868a24baf04576cd97fa2caef4f0a89f4cfaca4da589f2d87f5",
+      "bytes": 32580092
+    },
+    "published_scenarios": {
+      "path": "../E4_gnpy_audit/source/scenarios.csv",
+      "sha256": "252ef5012625ebedc58c0a7964826e52e4f25e0eb8a996c5ea1673466ac0c837",
+      "bytes": 13410693
+    }
+  },
+  "interpretation": "v2.12 is an exact-output compatibility reconstruction, not proof that the original unrecorded runtime commit was v2.12. The strict arm changes invalid configuration fields and replaces the single-channel edge case with a negligible guard, so it is an independent correctness/sensitivity check rather than a bitwise replay."
+}

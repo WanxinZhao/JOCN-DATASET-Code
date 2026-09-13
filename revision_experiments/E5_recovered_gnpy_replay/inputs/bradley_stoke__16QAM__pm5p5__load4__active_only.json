@@ -1,0 +1,48 @@
+{
+  "spectrum": [
+    {
+      "f_min": 194000000000000.0,
+      "f_max": 194000000000000.0,
+      "baud_rate": 32000000000.0,
+      "slot_width": 50000000000.0,
+      "delta_pdb": 0.0,
+      "roll_off": 0.15,
+      "tx_osnr": 40.0,
+      "tx_power_dbm": -5.5,
+      "label": "slot-1"
+    },
+    {
+      "f_min": 194050000000000.0,
+      "f_max": 194050000000000.0,
+      "baud_rate": 32000000000.0,
+      "slot_width": 50000000000.0,
+      "delta_pdb": 0.0,
+      "roll_off": 0.15,
+      "tx_osnr": 40.0,
+      "tx_power_dbm": -5.5,
+      "label": "slot-2"
+    },
+    {
+      "f_min": 194100000000000.0,
+      "f_max": 194100000000000.0,
+      "baud_rate": 32000000000.0,
+      "slot_width": 50000000000.0,
+      "delta_pdb": 0.0,
+      "roll_off": 0.15,
+      "tx_osnr": 40.0,
+      "tx_power_dbm": -5.5,
+      "label": "slot-3"
+    },
+    {
+      "f_min": 194150000000000.0,
+      "f_max": 194150000000000.0,
+      "baud_rate": 32000000000.0,
+      "slot_width": 50000000000.0,
+      "delta_pdb": 0.0,
+      "roll_off": 0.15,
+      "tx_osnr": 40.0,
+      "tx_power_dbm": -5.5,
+      "label": "slot-4"
+    }
+  ]
+}

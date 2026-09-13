@@ -1,0 +1,3 @@
+arm,requested_cases,successful_cli_runs,parsed_cases,mean_abs_gsnr_difference_db,max_abs_gsnr_difference_db,mean_abs_osnr_difference_db,max_abs_osnr_difference_db,cases_with_gsnr_difference_le_0p0051_db,cases_with_critical_warnings
+historical,96,96,96,0.00014843749999999636,0.0004999999999997229,2.343749999996388e-05,0.0004999999999988347,96,96
+strict,96,96,96,0.628140625,1.4344999999999999,0.2085468750000001,0.9284999999999997,0,96

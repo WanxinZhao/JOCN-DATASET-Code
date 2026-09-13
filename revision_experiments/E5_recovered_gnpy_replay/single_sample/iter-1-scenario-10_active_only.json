@@ -1,0 +1,26 @@
+﻿{
+    "spectrum":  [
+                     {
+                         "f_min":  194150000000000.0,
+                         "f_max":  194150000000000.0,
+                         "baud_rate":  32000000000.0,
+                         "slot_width":  37500000000.0,
+                         "delta_pdb":  0.0,
+                         "roll_off":  0.15,
+                         "tx_osnr":  40.0,
+                         "tx_power_dbm":  -5.5,
+                         "label":  "slot-5"
+                     },
+                     {
+                         "f_min":  194262500000000.0,
+                         "f_max":  194262500000000.0,
+                         "baud_rate":  32000000000.0,
+                         "slot_width":  37500000000.0,
+                         "delta_pdb":  0.0,
+                         "roll_off":  0.15,
+                         "tx_osnr":  40.0,
+                         "tx_power_dbm":  -5.5,
+                         "label":  "slot-8"
+                     }
+                 ]
+}

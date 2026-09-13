@@ -1,0 +1,26 @@
+[
+  {
+    "path": "Span[0].target_extended_gain",
+    "old": 30,
+    "new": 2.5,
+    "rationale": "GNPy reference default and YANG range-compliant"
+  },
+  {
+    "path": "Span[0].max_loss",
+    "old": 0,
+    "new": 28,
+    "rationale": "GNPy reference default and YANG range-compliant"
+  },
+  {
+    "path": "Transceiver[teraflex].mode",
+    "old": "QPSK@64000000000.0",
+    "new": "removed",
+    "rationale": "YANG keys mode by format; unused duplicate 64-Gbaud mode"
+  },
+  {
+    "path": "Transceiver[teraflex].mode",
+    "old": "16QAM@64000000000.0",
+    "new": "removed",
+    "rationale": "YANG keys mode by format; unused duplicate 64-Gbaud mode"
+  }
+]
