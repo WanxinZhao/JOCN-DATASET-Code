@@ -1,0 +1,25 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+
+# New API traces are local until they have been reviewed for publication
+revision_experiments/E6_llm_trace_reproduction/runs/
+llm_pipeline/data/runs/
+
+# Editors, operating systems and sync-client state
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.baiduyun.uploading.cfg
+
