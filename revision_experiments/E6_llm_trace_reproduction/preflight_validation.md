@@ -20,3 +20,13 @@ Date: 2026-09-12 (Asia/Shanghai)
 
 This preflight is not an experimental LLM result. Formal outputs will be stored
 under `runs/<run_id>/` after a valid local API key is configured.
+
+## Follow-up run
+
+On 2026-09-13, a new OpenAI run was attempted using an API key loaded at runtime
+from `/home/ubuntu/Desktop/Decomposition-code/.env`. Two API calls succeeded and
+their full request/response traces were saved, but GNPy execution failed and the
+workflow was manually interrupted. This does not change the status of the
+2026-09-12 no-key preflight and does not recover historical API records. See
+[`09_E6_20260913_new_run_trace_report.md`](../../revision_documents/09_E6_20260913_new_run_trace_report.md)
+for exact counts and limitations.

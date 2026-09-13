@@ -179,7 +179,13 @@ def start_llm_trace(
             "run_id": run_id,
             "trace_status": "running",
             "evidence_status": "new_reproduction_not_original_historical_trace",
-            "historical_provider_author_confirmation": "OpenAI",
+            "historical_run_provenance": {
+                "provider": "unavailable",
+                "note": (
+                    "This new trace does not establish the provider or model used "
+                    "in the unlogged historical run."
+                ),
+            },
             "started_at_utc": _utc_now(),
             "finished_at_utc": None,
             "user_request": user_request,

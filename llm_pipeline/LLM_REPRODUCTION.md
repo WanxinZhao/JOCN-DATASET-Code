@@ -37,3 +37,5 @@ Each run writes `data/runs/<run_id>/llm_trace/` containing:
 
 API keys and proxy credentials are not written to the trace. Cost is calculated
 only when the `.env` file contains a dated pricing snapshot and its source.
+Human edits, interruptions, or restarts are not inferred automatically; if any
+occur during a new run, record them explicitly alongside that run's artifacts.

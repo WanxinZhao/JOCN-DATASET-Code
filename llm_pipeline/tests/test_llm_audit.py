@@ -42,6 +42,14 @@ class LlmAuditTest(unittest.TestCase):
 
     def test_success_persists_exact_request_response_and_usage(self):
         trace_dir = self._start()
+        initial_manifest = json.loads(
+            (trace_dir / "run_manifest.json").read_text(encoding="utf-8")
+        )
+        self.assertEqual(
+            initial_manifest["historical_run_provenance"]["provider"],
+            "unavailable",
+        )
+        self.assertNotIn("historical_provider_author_confirmation", initial_manifest)
         raw_response = {
             "id": "chatcmpl-test",
             "model": "gpt-4o-mini-2024-07-18",

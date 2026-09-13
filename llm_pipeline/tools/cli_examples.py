@@ -305,7 +305,10 @@ def transmission_main_example(args=None):
         for final_carrier, ch_osnr, ch_snr_nl, ch_snr in zip(
                 infos.carriers, path[-1].osnr_ase, path[-1].osnr_nli, path[-1].snr):
             ch_freq = final_carrier.frequency * 1e-12
-            ch_power = lin2db(final_carrier.power.signal * 1e3)
+            # `infos.carriers` yields gnpy.core.info.Channel records; signal
+            # is already the received signal power in watts (there is no
+            # nested `power.signal` field on Channel).
+            ch_power = lin2db(final_carrier.signal * 1e3)
             print(
                 '{:5}{:26.5f}{:26.2f}{:28.2f}{:28.2f}{:28.2f}' .format(
                     final_carrier.channel_number, round(
@@ -523,4 +526,3 @@ def path_requests_run(args=None):
 
 if __name__ == "__main__":
     transmission_main_example()
-

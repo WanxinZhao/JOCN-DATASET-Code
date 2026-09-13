@@ -1,5 +1,6 @@
 import json
 import math
+import os
 import re
 import subprocess
 import sys
@@ -31,7 +32,12 @@ class ExecutionAgent:
             topology_path=str(self._topology_path),
             equipment_path=str(self._equipment_path),
         )
-        self._runtime_dir = self._root / "data" / "_gnpy_cli_runtime"
+        configured_runtime_dir = os.getenv("GNPY_CLI_RUNTIME_DIR")
+        self._runtime_dir = (
+            Path(configured_runtime_dir).expanduser()
+            if configured_runtime_dir
+            else self._root / "data" / "_gnpy_cli_runtime"
+        )
         self._optic_runtime_dir = self._root / "data" / "_opticommpy_runtime"
         self._topology_cache: Dict[str, Any] | None = None
         self._equipment_cache: Dict[str, Any] | None = None
@@ -177,10 +183,21 @@ class ExecutionAgent:
         pattern = str(sim_config.get("channel_pattern") or "").strip()
         slot_count = int(sim_config.get("channel_slots", len(pattern) or 1))
         pattern = pattern[:slot_count].ljust(slot_count, "0")
+        invalid_states = sorted(set(pattern) - {"0", "1"})
+        if invalid_states:
+            raise ValueError(
+                f"Channel pattern must contain only '0' and '1'; found {invalid_states}."
+            )
         spacing_hz = float(sim_config["spacing_hz"])
         f_min_hz = float(sim_config["f_min_hz"])
         spectrum = []
         for slot_index, state in enumerate(pattern):
+            # A disabled slot is absent from the propagated spectrum. Encoding
+            # it as an extremely low-power carrier is both schema-invalid for
+            # GNPy (tx_power_dbm is constrained to [-60, 60] dBm) and would
+            # incorrectly model an off channel as a weak active carrier.
+            if state == "0":
+                continue
             frequency = f_min_hz + slot_index * spacing_hz
             spectrum.append(
                 {
@@ -191,7 +208,7 @@ class ExecutionAgent:
                     "delta_pdb": 0.0,
                     "roll_off": float(sim_config["roll_off"]),
                     "tx_osnr": float(sim_config["tx_osnr_db"]),
-                    "tx_power_dbm": float(sim_config["launch_power"]) if state == "1" else -120.0,
+                    "tx_power_dbm": float(sim_config["launch_power"]),
                     "label": f"slot-{slot_index + 1}",
                 }
             )

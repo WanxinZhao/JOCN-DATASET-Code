@@ -1435,9 +1435,15 @@ class Edfa(_Node):
         self.nch = spectral_info.number_of_channels
         pch_in = spectral_info.pch
         self.pin_db = watt2dbm(spectral_info.ptot)
-        # The following should be changed when we have the new spectral information including slot widths.
-        # For now, with homogeneous spectrum, we can calculate it as the difference between neighbouring channels.
-        self.slot_width = self.channel_freq[1] - self.channel_freq[0]
+        # For a multi-channel homogeneous spectrum, infer the slot width from
+        # adjacent channel centers. A single-channel spectrum has no adjacent
+        # center, so use the explicit width carried by SpectralInformation.
+        # This also preserves the configured width for one-active-slot GNPy
+        # scenarios instead of failing with an IndexError.
+        if self.nch == 1:
+            self.slot_width = spectral_info.slot_width[0]
+        else:
+            self.slot_width = self.channel_freq[1] - self.channel_freq[0]
 
         # check power saturation and correct effective gain & power accordingly:
         # Compute the saturation accounting for actual power at the input of the amp
