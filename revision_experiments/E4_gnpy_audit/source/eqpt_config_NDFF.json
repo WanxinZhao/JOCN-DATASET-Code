@@ -1,0 +1,440 @@
+{
+  "Edfa": [
+    {
+      "type_variety": "high_detail_model_example",
+      "type_def": "advanced_model",
+      "gain_flatmax": 25,
+      "gain_min": 15,
+      "p_max": 21,
+      "advanced_config_from_json": "std_medium_gain_advanced_config.json",
+      "out_voa_auto": false,
+      "allowed_for_design": false
+    },
+    {
+      "type_variety": "Juniper_BoosterHG",
+      "type_def": "advanced_model",
+      "gain_flatmax": 25,
+      "gain_min": 10,
+      "p_max": 21,
+      "advanced_config_from_json": "Juniper-BoosterHG.json",
+      "out_voa_auto": false,
+      "allowed_for_design": false
+    },
+    {
+      "type_variety": "operator_model_example",
+      "type_def": "variable_gain",
+      "gain_flatmax": 26,
+      "gain_min": 15,
+      "p_max": 23,
+      "nf_min": 6,
+      "nf_max": 10,
+      "out_voa_auto": false,
+      "allowed_for_design": false
+    },
+    {
+      "type_variety": "low_noise",
+      "type_def": "openroadm",
+      "gain_flatmax": 27,
+      "gain_min": 12,
+      "p_max": 22,
+      "nf_coef": [
+        -0.0008104,
+        -0.06221,
+        -0.5889,
+        37.62
+      ],
+      "allowed_for_design": false
+    },
+    {
+      "type_variety": "std_fixed_gain",
+      "type_def": "fixed_gain",
+      "gain_flatmax": 21,
+      "gain_min": 20,
+      "p_max": 21,
+      "nf0": 5.5,
+      "allowed_for_design": false
+    },
+    {
+      "type_variety": "4pumps_raman",
+      "type_def": "fixed_gain",
+      "gain_flatmax": 50,
+      "gain_min": 12,
+      "p_max": 37,
+      "nf0": -1,
+      "allowed_for_design": false
+    },
+    {
+      "type_variety": "std_medium_gain",
+      "type_def": "variable_gain",
+      "gain_flatmax": 26,
+      "gain_min": 15,
+      "p_max": 23,
+      "nf_min": 6,
+      "nf_max": 10,
+      "out_voa_auto": false,
+      "allowed_for_design": true
+    },
+    {
+      "type_variety": "std_low_gain",
+      "type_def": "variable_gain",
+      "gain_flatmax": 16,
+      "gain_min": 8,
+      "p_max": 23,
+      "nf_min": 6.5,
+      "nf_max": 11,
+      "out_voa_auto": false,
+      "allowed_for_design": true
+    },
+    {
+      "type_variety": "std_high_gain",
+      "type_def": "variable_gain",
+      "gain_flatmax": 35,
+      "gain_min": 25,
+      "p_max": 21,
+      "nf_min": 5.5,
+      "nf_max": 7,
+      "out_voa_auto": false,
+      "allowed_for_design": true
+    },
+    {
+      "type_variety": "edfa_uob_type",
+      "type_def": "fixed_gain",
+      "gain_flatmax": 5.1,
+      "gain_min": 4.9,
+      "p_max": 21,
+      "nf0": 5.5,
+      "allowed_for_design": false
+    }
+  ],
+  "Fiber": [
+    {
+      "type_variety": "SSMF",
+      "dispersion": 1.67e-05,
+      "pmd_coef": 9.48683e-14,
+      "gamma": 0.00127
+    }
+  ],
+  "RamanFiber": [
+    {
+      "type_variety": "SSMF",
+      "dispersion": 1.67e-05,
+      "gamma": 0.00127,
+      "raman_efficiency": {
+        "cr": [
+          0,
+          9.4e-06,
+          2.92e-05,
+          4.88e-05,
+          6.82e-05,
+          8.31e-05,
+          9.4e-05,
+          0.0001014,
+          0.0001069,
+          0.0001119,
+          0.0001217,
+          0.0001268,
+          0.0001365,
+          0.000149,
+          0.000165,
+          0.000181,
+          0.0001977,
+          0.0002192,
+          0.0002469,
+          0.0002749,
+          0.0002999,
+          0.0003206,
+          0.0003405,
+          0.0003592,
+          0.000374,
+          0.0003826,
+          0.0003841,
+          0.0003826,
+          0.0003802,
+          0.0003756,
+          0.0003549,
+          0.0003795,
+          0.000344,
+          0.0002933,
+          0.0002024,
+          0.0001158,
+          8.46e-05,
+          7.14e-05,
+          6.86e-05,
+          8.5e-05,
+          8.93e-05,
+          9.01e-05,
+          8.15e-05,
+          6.67e-05,
+          4.37e-05,
+          3.28e-05,
+          2.96e-05,
+          2.65e-05,
+          2.57e-05,
+          2.81e-05,
+          3.08e-05,
+          3.67e-05,
+          5.85e-05,
+          6.63e-05,
+          6.36e-05,
+          5.5e-05,
+          4.06e-05,
+          2.77e-05,
+          2.42e-05,
+          1.87e-05,
+          1.6e-05,
+          1.4e-05,
+          1.13e-05,
+          1.05e-05,
+          9.8e-06,
+          9.8e-06,
+          1.13e-05,
+          1.64e-05,
+          1.95e-05,
+          2.38e-05,
+          2.26e-05,
+          2.03e-05,
+          1.48e-05,
+          1.09e-05,
+          9.8e-06,
+          1.05e-05,
+          1.17e-05,
+          1.25e-05,
+          1.21e-05,
+          1.09e-05,
+          9.8e-06,
+          8.2e-06,
+          6.6e-06,
+          4.7e-06,
+          2.7e-06,
+          1.9e-06,
+          1.2e-06,
+          4e-07,
+          2e-07,
+          1e-07
+        ],
+        "frequency_offset": [
+          0,
+          500000000000.0,
+          1000000000000.0,
+          1500000000000.0,
+          2000000000000.0,
+          2500000000000.0,
+          3000000000000.0,
+          3500000000000.0,
+          4000000000000.0,
+          4500000000000.0,
+          5000000000000.0,
+          5500000000000.0,
+          6000000000000.0,
+          6500000000000.0,
+          7000000000000.0,
+          7500000000000.0,
+          8000000000000.0,
+          8500000000000.0,
+          9000000000000.0,
+          9500000000000.0,
+          10000000000000.0,
+          10500000000000.0,
+          11000000000000.0,
+          11500000000000.0,
+          12000000000000.0,
+          12500000000000.0,
+          12750000000000.0,
+          13000000000000.0,
+          13250000000000.0,
+          13500000000000.0,
+          14000000000000.0,
+          14500000000000.0,
+          14750000000000.0,
+          15000000000000.0,
+          15500000000000.0,
+          16000000000000.0,
+          16500000000000.0,
+          17000000000000.0,
+          17500000000000.0,
+          18000000000000.0,
+          18250000000000.0,
+          18500000000000.0,
+          18750000000000.0,
+          19000000000000.0,
+          19500000000000.0,
+          20000000000000.0,
+          20500000000000.0,
+          21000000000000.0,
+          21500000000000.0,
+          22000000000000.0,
+          22500000000000.0,
+          23000000000000.0,
+          23500000000000.0,
+          24000000000000.0,
+          24500000000000.0,
+          25000000000000.0,
+          25500000000000.0,
+          26000000000000.0,
+          26500000000000.0,
+          27000000000000.0,
+          27500000000000.0,
+          28000000000000.0,
+          28500000000000.0,
+          29000000000000.0,
+          29500000000000.0,
+          30000000000000.0,
+          30500000000000.0,
+          31000000000000.0,
+          31500000000000.0,
+          32000000000000.0,
+          32500000000000.0,
+          33000000000000.0,
+          33500000000000.0,
+          34000000000000.0,
+          34500000000000.0,
+          35000000000000.0,
+          35500000000000.0,
+          36000000000000.0,
+          36500000000000.0,
+          37000000000000.0,
+          37500000000000.0,
+          38000000000000.0,
+          38500000000000.0,
+          39000000000000.0,
+          39500000000000.0,
+          40000000000000.0,
+          40500000000000.0,
+          41000000000000.0,
+          41500000000000.0,
+          42000000000000.0
+        ]
+      }
+    }
+  ],
+  "Span": [
+    {
+      "power_mode": false,
+      "delta_power_range_db": [
+        0,
+        0,
+        0
+      ],
+      "max_fiber_lineic_loss_for_raman": 0,
+      "target_extended_gain": 30,
+      "max_length": 150,
+      "length_units": "km",
+      "max_loss": 0,
+      "padding": 0,
+      "EOL": 0,
+      "con_in": 0.5,
+      "con_out": 0
+    }
+  ],
+  "Roadm": [
+    {
+      "target_pch_out_db": -4.5,
+      "add_drop_osnr": 40,
+      "restrictions": {
+        "preamp_variety_list": [
+          "std_fixed_gain"
+        ],
+        "booster_variety_list": [
+          "Juniper_BoosterHG"
+        ]
+      }
+    }
+  ],
+  "SI": [
+    {
+      "f_min": 194000000000000.0,
+      "baud_rate": 32000000000.0,
+      "f_max": 196000000000000.0,
+      "spacing": 50000000000.0,
+      "power_dbm": -5.5,
+      "power_range_db": [
+        0,
+        0,
+        0
+      ],
+      "roll_off": 0.15,
+      "tx_osnr": 16.17192365370999,
+      "sys_margins": 0
+    }
+  ],
+  "Transceiver": [
+    {
+      "type_variety": "voyager",
+      "frequency": {
+        "min": 191150000000000.0,
+        "max": 196100000000000.0
+      },
+      "mode": [
+        {
+          "format": "QPSK",
+          "baud_rate": 32000000000.0,
+          "bit_rate": 100000000000.0,
+          "OSNR": 18,
+          "roll_off": 0.15,
+          "tx_osnr": 40,
+          "min_spacing": 37500000000.0,
+          "cost": 1
+        },
+        {
+          "format": "16QAM",
+          "baud_rate": 32000000000.0,
+          "bit_rate": 200000000000.0,
+          "OSNR": 22,
+          "roll_off": 0.15,
+          "tx_osnr": 40,
+          "min_spacing": 50000000000.0,
+          "cost": 1
+        }
+      ]
+    },
+    {
+      "type_variety": "teraflex",
+      "frequency": {
+        "min": 191237500000000.0,
+        "max": 196100000000000.0
+      },
+      "mode": [
+        {
+          "format": "QPSK",
+          "baud_rate": 32000000000.0,
+          "OSNR": 18,
+          "bit_rate": 100000000000.0,
+          "roll_off": 0.15,
+          "tx_osnr": 40,
+          "min_spacing": 37500000000.0,
+          "cost": 1
+        },
+        {
+          "format": "16QAM",
+          "baud_rate": 32000000000.0,
+          "OSNR": 22,
+          "bit_rate": 200000000000.0,
+          "roll_off": 0.15,
+          "tx_osnr": 40,
+          "min_spacing": 50000000000.0,
+          "cost": 1
+        },
+        {
+          "format": "QPSK",
+          "baud_rate": 64000000000.0,
+          "OSNR": 18,
+          "bit_rate": 200000000000.0,
+          "roll_off": 0.15,
+          "tx_osnr": 40,
+          "min_spacing": 75000000000.0,
+          "cost": 1
+        },
+        {
+          "format": "16QAM",
+          "baud_rate": 64000000000.0,
+          "OSNR": 26,
+          "bit_rate": 400000000000.0,
+          "roll_off": 0.15,
+          "tx_osnr": 40,
+          "min_spacing": 75000000000.0,
+          "cost": 1
+        }
+      ]
+    }
+  ]
+}

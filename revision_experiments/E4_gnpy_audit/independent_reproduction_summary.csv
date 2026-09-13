@@ -1,0 +1,2 @@
+requested_cases,successful_cli_runs,public_config_validation_failures,parsed_cases,mean_abs_gsnr_difference_db,max_abs_gsnr_difference_db,mean_abs_osnr_difference_db,max_abs_osnr_difference_db,cases_with_critical_warnings
+96,0,96,0,,,,,0

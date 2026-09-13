@@ -1,0 +1,2049 @@
+source,destination,transmitter_type,modulation,channel_pattern,launch_power_dbm,execution_count,iterations,statuses_identical,gsnr_db_range,osnr_db_range,ase_dbm_range,gsnr_signal_bw_db_range,osnr_signal_bw_db_range,rx_signal_power_dbm_range,span_count_range
+bristol,bradley stoke,voyager,16QAM,00000000,-5.5,2,"1,2",True,,,,,,,0.0
+bristol,bradley stoke,voyager,16QAM,00000001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00000010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00000011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00000100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00000101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00000110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00000111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00001000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00001001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00001010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00001011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00001100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00001101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00001110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00001111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00010000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00010001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00010010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00010011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00010100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00010101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00010110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00010111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00011000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00011001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00011010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00011011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00011100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00011101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00011110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00011111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00100000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00100001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00100010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00100011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00100100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00100101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00100110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00100111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00101000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00101001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00101010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00101011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00101100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00101101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00101110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00101111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00110000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00110001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00110010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00110011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00110100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00110101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00110110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00110111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00111000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00111001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00111010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00111011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00111100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00111101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00111110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,00111111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01000000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01000001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01000010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01000011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01000100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01000101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01000110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01000111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01001000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01001001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01001010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01001011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01001100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01001101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01001110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01001111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01010000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01010001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01010010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01010011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01010100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01010101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01010110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01010111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01011000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01011001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01011010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01011011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01011100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01011101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01011110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01011111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01100000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01100001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01100010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01100011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01100100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01100101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01100110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01100111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01101000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01101001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01101010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01101011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01101100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01101101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01101110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01101111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01110000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01110001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01110010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01110011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01110100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01110101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01110110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01110111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01111000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01111001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01111010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01111011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01111100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01111101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01111110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,01111111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10000000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10000001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10000010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10000011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10000100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10000101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10000110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10000111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10001000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10001001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10001010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10001011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10001100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10001101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10001110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10001111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10010000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10010001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10010010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10010011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10010100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10010101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10010110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10010111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10011000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10011001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10011010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10011011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10011100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10011101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10011110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10011111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10100000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10100001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10100010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10100011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10100100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10100101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10100110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10100111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10101000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10101001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10101010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10101011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10101100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10101101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10101110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10101111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10110000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10110001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10110010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10110011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10110100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10110101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10110110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10110111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10111000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10111001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10111010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10111011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10111100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10111101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10111110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,10111111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11000000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11000001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11000010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11000011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11000100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11000101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11000110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11000111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11001000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11001001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11001010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11001011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11001100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11001101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11001110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11001111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11010000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11010001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11010010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11010011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11010100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11010101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11010110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11010111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11011000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11011001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11011010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11011011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11011100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11011101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11011110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11011111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11100000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11100001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11100010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11100011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11100100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11100101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11100110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11100111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11101000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11101001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11101010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11101011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11101100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11101101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11101110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11101111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11110000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11110001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11110010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11110011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11110100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11110101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11110110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11110111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11111000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11111001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11111010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11111011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11111100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11111101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11111110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,16QAM,11111111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00000000,-5.5,2,"1,2",True,,,,,,,0.0
+bristol,bradley stoke,voyager,QPSK,00000001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00000010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00000011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00000100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00000101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00000110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00000111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00001000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00001001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00001010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00001011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00001100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00001101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00001110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00001111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00010000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00010001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00010010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00010011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00010100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00010101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00010110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00010111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00011000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00011001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00011010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00011011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00011100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00011101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00011110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00011111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00100000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00100001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00100010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00100011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00100100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00100101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00100110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00100111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00101000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00101001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00101010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00101011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00101100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00101101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00101110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00101111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00110000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00110001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00110010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00110011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00110100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00110101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00110110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00110111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00111000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00111001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00111010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00111011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00111100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00111101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00111110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,00111111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01000000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01000001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01000010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01000011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01000100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01000101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01000110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01000111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01001000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01001001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01001010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01001011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01001100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01001101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01001110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01001111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01010000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01010001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01010010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01010011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01010100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01010101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01010110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01010111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01011000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01011001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01011010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01011011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01011100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01011101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01011110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01011111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01100000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01100001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01100010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01100011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01100100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01100101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01100110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01100111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01101000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01101001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01101010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01101011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01101100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01101101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01101110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01101111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01110000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01110001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01110010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01110011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01110100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01110101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01110110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01110111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01111000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01111001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01111010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01111011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01111100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01111101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01111110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,01111111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10000000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10000001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10000010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10000011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10000100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10000101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10000110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10000111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10001000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10001001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10001010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10001011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10001100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10001101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10001110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10001111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10010000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10010001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10010010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10010011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10010100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10010101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10010110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10010111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10011000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10011001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10011010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10011011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10011100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10011101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10011110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10011111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10100000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10100001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10100010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10100011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10100100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10100101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10100110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10100111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10101000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10101001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10101010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10101011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10101100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10101101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10101110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10101111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10110000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10110001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10110010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10110011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10110100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10110101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10110110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10110111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10111000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10111001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10111010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10111011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10111100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10111101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10111110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,10111111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11000000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11000001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11000010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11000011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11000100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11000101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11000110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11000111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11001000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11001001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11001010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11001011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11001100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11001101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11001110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11001111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11010000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11010001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11010010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11010011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11010100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11010101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11010110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11010111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11011000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11011001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11011010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11011011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11011100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11011101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11011110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11011111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11100000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11100001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11100010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11100011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11100100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11100101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11100110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11100111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11101000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11101001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11101010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11101011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11101100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11101101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11101110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11101111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11110000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11110001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11110010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11110011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11110100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11110101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11110110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11110111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11111000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11111001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11111010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11111011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11111100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11111101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11111110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,bradley stoke,voyager,QPSK,11111111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00000000,-5.5,2,"1,2",True,,,,,,,0.0
+bristol,froxfield,voyager,16QAM,00000001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00000010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00000011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00000100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00000101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00000110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00000111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00001000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00001001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00001010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00001011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00001100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00001101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00001110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00001111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00010000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00010001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00010010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00010011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00010100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00010101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00010110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00010111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00011000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00011001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00011010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00011011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00011100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00011101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00011110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00011111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00100000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00100001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00100010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00100011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00100100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00100101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00100110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00100111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00101000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00101001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00101010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00101011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00101100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00101101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00101110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00101111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00110000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00110001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00110010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00110011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00110100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00110101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00110110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00110111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00111000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00111001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00111010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00111011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00111100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00111101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00111110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,00111111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01000000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01000001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01000010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01000011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01000100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01000101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01000110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01000111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01001000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01001001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01001010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01001011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01001100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01001101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01001110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01001111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01010000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01010001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01010010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01010011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01010100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01010101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01010110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01010111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01011000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01011001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01011010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01011011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01011100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01011101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01011110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01011111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01100000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01100001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01100010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01100011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01100100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01100101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01100110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01100111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01101000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01101001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01101010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01101011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01101100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01101101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01101110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01101111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01110000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01110001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01110010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01110011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01110100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01110101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01110110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01110111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01111000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01111001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01111010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01111011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01111100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01111101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01111110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,01111111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10000000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10000001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10000010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10000011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10000100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10000101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10000110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10000111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10001000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10001001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10001010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10001011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10001100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10001101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10001110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10001111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10010000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10010001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10010010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10010011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10010100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10010101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10010110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10010111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10011000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10011001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10011010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10011011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10011100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10011101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10011110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10011111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10100000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10100001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10100010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10100011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10100100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10100101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10100110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10100111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10101000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10101001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10101010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10101011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10101100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10101101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10101110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10101111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10110000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10110001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10110010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10110011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10110100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10110101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10110110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10110111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10111000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10111001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10111010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10111011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10111100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10111101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10111110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,10111111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11000000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11000001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11000010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11000011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11000100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11000101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11000110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11000111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11001000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11001001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11001010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11001011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11001100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11001101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11001110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11001111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11010000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11010001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11010010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11010011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11010100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11010101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11010110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11010111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11011000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11011001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11011010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11011011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11011100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11011101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11011110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11011111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11100000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11100001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11100010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11100011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11100100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11100101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11100110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11100111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11101000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11101001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11101010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11101011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11101100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11101101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11101110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11101111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11110000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11110001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11110010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11110011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11110100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11110101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11110110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11110111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11111000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11111001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11111010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11111011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11111100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11111101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11111110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,16QAM,11111111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00000000,-5.5,2,"1,2",True,,,,,,,0.0
+bristol,froxfield,voyager,QPSK,00000001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00000010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00000011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00000100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00000101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00000110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00000111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00001000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00001001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00001010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00001011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00001100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00001101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00001110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00001111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00010000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00010001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00010010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00010011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00010100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00010101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00010110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00010111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00011000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00011001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00011010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00011011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00011100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00011101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00011110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00011111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00100000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00100001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00100010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00100011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00100100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00100101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00100110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00100111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00101000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00101001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00101010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00101011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00101100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00101101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00101110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00101111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00110000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00110001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00110010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00110011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00110100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00110101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00110110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00110111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00111000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00111001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00111010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00111011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00111100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00111101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00111110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,00111111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01000000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01000001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01000010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01000011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01000100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01000101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01000110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01000111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01001000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01001001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01001010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01001011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01001100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01001101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01001110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01001111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01010000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01010001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01010010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01010011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01010100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01010101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01010110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01010111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01011000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01011001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01011010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01011011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01011100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01011101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01011110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01011111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01100000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01100001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01100010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01100011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01100100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01100101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01100110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01100111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01101000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01101001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01101010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01101011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01101100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01101101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01101110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01101111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01110000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01110001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01110010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01110011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01110100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01110101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01110110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01110111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01111000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01111001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01111010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01111011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01111100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01111101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01111110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,01111111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10000000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10000001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10000010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10000011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10000100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10000101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10000110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10000111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10001000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10001001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10001010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10001011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10001100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10001101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10001110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10001111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10010000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10010001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10010010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10010011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10010100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10010101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10010110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10010111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10011000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10011001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10011010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10011011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10011100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10011101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10011110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10011111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10100000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10100001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10100010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10100011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10100100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10100101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10100110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10100111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10101000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10101001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10101010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10101011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10101100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10101101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10101110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10101111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10110000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10110001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10110010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10110011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10110100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10110101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10110110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10110111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10111000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10111001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10111010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10111011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10111100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10111101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10111110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,10111111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11000000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11000001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11000010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11000011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11000100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11000101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11000110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11000111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11001000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11001001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11001010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11001011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11001100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11001101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11001110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11001111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11010000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11010001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11010010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11010011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11010100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11010101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11010110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11010111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11011000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11011001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11011010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11011011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11011100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11011101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11011110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11011111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11100000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11100001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11100010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11100011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11100100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11100101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11100110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11100111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11101000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11101001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11101010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11101011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11101100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11101101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11101110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11101111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11110000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11110001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11110010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11110011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11110100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11110101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11110110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11110111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11111000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11111001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11111010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11111011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11111100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11111101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11111110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,froxfield,voyager,QPSK,11111111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00000000,-5.5,2,"1,2",True,,,,,,,0.0
+bristol,powergate,voyager,16QAM,00000001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00000010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00000011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00000100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00000101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00000110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00000111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00001000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00001001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00001010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00001011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00001100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00001101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00001110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00001111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00010000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00010001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00010010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00010011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00010100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00010101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00010110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00010111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00011000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00011001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00011010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00011011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00011100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00011101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00011110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00011111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00100000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00100001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00100010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00100011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00100100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00100101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00100110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00100111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00101000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00101001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00101010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00101011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00101100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00101101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00101110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00101111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00110000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00110001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00110010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00110011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00110100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00110101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00110110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00110111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00111000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00111001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00111010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00111011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00111100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00111101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00111110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,00111111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01000000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01000001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01000010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01000011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01000100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01000101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01000110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01000111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01001000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01001001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01001010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01001011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01001100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01001101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01001110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01001111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01010000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01010001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01010010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01010011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01010100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01010101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01010110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01010111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01011000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01011001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01011010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01011011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01011100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01011101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01011110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01011111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01100000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01100001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01100010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01100011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01100100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01100101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01100110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01100111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01101000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01101001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01101010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01101011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01101100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01101101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01101110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01101111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01110000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01110001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01110010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01110011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01110100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01110101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01110110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01110111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01111000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01111001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01111010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01111011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01111100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01111101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01111110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,01111111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10000000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10000001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10000010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10000011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10000100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10000101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10000110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10000111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10001000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10001001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10001010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10001011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10001100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10001101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10001110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10001111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10010000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10010001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10010010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10010011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10010100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10010101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10010110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10010111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10011000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10011001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10011010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10011011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10011100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10011101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10011110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10011111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10100000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10100001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10100010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10100011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10100100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10100101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10100110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10100111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10101000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10101001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10101010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10101011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10101100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10101101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10101110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10101111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10110000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10110001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10110010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10110011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10110100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10110101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10110110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10110111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10111000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10111001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10111010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10111011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10111100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10111101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10111110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,10111111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11000000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11000001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11000010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11000011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11000100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11000101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11000110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11000111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11001000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11001001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11001010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11001011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11001100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11001101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11001110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11001111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11010000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11010001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11010010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11010011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11010100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11010101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11010110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11010111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11011000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11011001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11011010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11011011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11011100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11011101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11011110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11011111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11100000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11100001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11100010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11100011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11100100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11100101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11100110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11100111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11101000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11101001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11101010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11101011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11101100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11101101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11101110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11101111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11110000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11110001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11110010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11110011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11110100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11110101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11110110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11110111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11111000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11111001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11111010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11111011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11111100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11111101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11111110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,16QAM,11111111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00000000,-5.5,2,"1,2",True,,,,,,,0.0
+bristol,powergate,voyager,QPSK,00000001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00000010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00000011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00000100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00000101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00000110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00000111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00001000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00001001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00001010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00001011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00001100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00001101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00001110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00001111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00010000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00010001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00010010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00010011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00010100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00010101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00010110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00010111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00011000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00011001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00011010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00011011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00011100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00011101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00011110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00011111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00100000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00100001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00100010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00100011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00100100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00100101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00100110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00100111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00101000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00101001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00101010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00101011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00101100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00101101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00101110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00101111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00110000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00110001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00110010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00110011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00110100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00110101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00110110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00110111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00111000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00111001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00111010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00111011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00111100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00111101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00111110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,00111111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01000000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01000001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01000010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01000011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01000100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01000101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01000110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01000111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01001000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01001001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01001010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01001011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01001100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01001101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01001110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01001111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01010000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01010001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01010010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01010011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01010100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01010101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01010110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01010111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01011000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01011001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01011010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01011011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01011100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01011101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01011110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01011111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01100000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01100001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01100010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01100011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01100100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01100101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01100110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01100111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01101000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01101001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01101010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01101011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01101100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01101101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01101110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01101111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01110000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01110001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01110010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01110011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01110100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01110101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01110110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01110111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01111000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01111001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01111010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01111011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01111100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01111101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01111110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,01111111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10000000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10000001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10000010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10000011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10000100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10000101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10000110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10000111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10001000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10001001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10001010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10001011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10001100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10001101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10001110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10001111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10010000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10010001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10010010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10010011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10010100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10010101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10010110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10010111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10011000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10011001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10011010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10011011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10011100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10011101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10011110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10011111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10100000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10100001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10100010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10100011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10100100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10100101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10100110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10100111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10101000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10101001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10101010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10101011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10101100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10101101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10101110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10101111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10110000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10110001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10110010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10110011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10110100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10110101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10110110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10110111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10111000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10111001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10111010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10111011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10111100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10111101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10111110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,10111111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11000000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11000001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11000010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11000011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11000100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11000101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11000110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11000111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11001000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11001001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11001010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11001011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11001100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11001101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11001110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11001111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11010000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11010001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11010010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11010011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11010100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11010101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11010110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11010111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11011000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11011001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11011010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11011011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11011100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11011101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11011110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11011111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11100000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11100001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11100010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11100011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11100100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11100101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11100110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11100111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11101000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11101001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11101010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11101011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11101100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11101101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11101110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11101111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11110000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11110001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11110010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11110011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11110100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11110101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11110110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11110111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11111000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11111001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11111010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11111011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11111100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11111101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11111110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,powergate,voyager,QPSK,11111111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00000000,-5.5,2,"1,2",True,,,,,,,0.0
+bristol,reading,voyager,16QAM,00000001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00000010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00000011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00000100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00000101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00000110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00000111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00001000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00001001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00001010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00001011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00001100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00001101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00001110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00001111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00010000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00010001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00010010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00010011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00010100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00010101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00010110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00010111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00011000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00011001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00011010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00011011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00011100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00011101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00011110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00011111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00100000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00100001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00100010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00100011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00100100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00100101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00100110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00100111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00101000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00101001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00101010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00101011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00101100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00101101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00101110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00101111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00110000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00110001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00110010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00110011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00110100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00110101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00110110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00110111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00111000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00111001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00111010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00111011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00111100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00111101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00111110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,00111111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01000000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01000001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01000010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01000011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01000100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01000101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01000110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01000111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01001000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01001001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01001010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01001011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01001100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01001101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01001110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01001111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01010000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01010001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01010010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01010011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01010100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01010101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01010110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01010111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01011000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01011001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01011010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01011011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01011100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01011101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01011110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01011111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01100000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01100001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01100010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01100011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01100100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01100101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01100110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01100111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01101000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01101001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01101010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01101011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01101100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01101101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01101110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01101111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01110000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01110001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01110010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01110011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01110100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01110101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01110110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01110111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01111000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01111001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01111010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01111011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01111100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01111101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01111110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,01111111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10000000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10000001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10000010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10000011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10000100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10000101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10000110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10000111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10001000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10001001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10001010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10001011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10001100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10001101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10001110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10001111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10010000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10010001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10010010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10010011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10010100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10010101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10010110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10010111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10011000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10011001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10011010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10011011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10011100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10011101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10011110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10011111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10100000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10100001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10100010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10100011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10100100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10100101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10100110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10100111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10101000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10101001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10101010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10101011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10101100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10101101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10101110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10101111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10110000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10110001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10110010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10110011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10110100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10110101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10110110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10110111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10111000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10111001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10111010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10111011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10111100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10111101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10111110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,10111111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11000000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11000001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11000010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11000011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11000100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11000101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11000110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11000111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11001000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11001001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11001010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11001011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11001100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11001101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11001110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11001111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11010000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11010001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11010010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11010011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11010100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11010101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11010110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11010111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11011000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11011001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11011010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11011011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11011100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11011101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11011110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11011111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11100000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11100001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11100010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11100011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11100100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11100101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11100110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11100111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11101000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11101001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11101010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11101011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11101100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11101101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11101110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11101111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11110000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11110001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11110010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11110011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11110100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11110101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11110110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11110111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11111000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11111001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11111010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11111011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11111100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11111101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11111110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,16QAM,11111111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00000000,-5.5,2,"1,2",True,,,,,,,0.0
+bristol,reading,voyager,QPSK,00000001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00000010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00000011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00000100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00000101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00000110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00000111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00001000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00001001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00001010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00001011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00001100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00001101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00001110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00001111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00010000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00010001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00010010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00010011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00010100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00010101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00010110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00010111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00011000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00011001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00011010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00011011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00011100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00011101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00011110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00011111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00100000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00100001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00100010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00100011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00100100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00100101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00100110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00100111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00101000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00101001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00101010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00101011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00101100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00101101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00101110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00101111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00110000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00110001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00110010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00110011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00110100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00110101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00110110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00110111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00111000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00111001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00111010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00111011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00111100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00111101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00111110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,00111111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01000000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01000001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01000010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01000011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01000100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01000101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01000110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01000111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01001000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01001001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01001010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01001011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01001100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01001101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01001110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01001111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01010000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01010001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01010010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01010011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01010100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01010101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01010110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01010111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01011000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01011001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01011010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01011011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01011100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01011101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01011110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01011111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01100000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01100001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01100010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01100011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01100100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01100101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01100110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01100111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01101000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01101001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01101010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01101011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01101100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01101101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01101110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01101111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01110000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01110001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01110010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01110011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01110100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01110101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01110110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01110111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01111000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01111001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01111010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01111011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01111100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01111101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01111110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,01111111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10000000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10000001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10000010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10000011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10000100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10000101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10000110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10000111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10001000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10001001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10001010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10001011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10001100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10001101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10001110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10001111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10010000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10010001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10010010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10010011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10010100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10010101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10010110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10010111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10011000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10011001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10011010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10011011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10011100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10011101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10011110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10011111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10100000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10100001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10100010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10100011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10100100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10100101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10100110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10100111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10101000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10101001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10101010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10101011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10101100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10101101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10101110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10101111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10110000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10110001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10110010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10110011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10110100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10110101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10110110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10110111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10111000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10111001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10111010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10111011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10111100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10111101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10111110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,10111111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11000000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11000001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11000010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11000011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11000100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11000101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11000110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11000111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11001000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11001001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11001010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11001011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11001100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11001101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11001110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11001111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11010000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11010001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11010010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11010011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11010100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11010101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11010110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11010111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11011000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11011001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11011010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11011011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11011100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11011101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11011110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11011111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11100000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11100001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11100010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11100011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11100100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11100101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11100110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11100111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11101000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11101001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11101010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11101011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11101100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11101101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11101110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11101111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11110000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11110001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11110010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11110011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11110100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11110101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11110110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11110111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11111000,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11111001,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11111010,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11111011,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11111100,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11111101,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11111110,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bristol,reading,voyager,QPSK,11111111,-5.5,2,"1,2",True,0.0,0.0,0.0,0.0,0.0,0.0,0.0

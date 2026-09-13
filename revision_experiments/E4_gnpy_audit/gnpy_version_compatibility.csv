@@ -1,0 +1,3 @@
+gnpy_version,test_cases,successful_cases,failure_stage,failure_category,observed_errors
+2.14.2,96,0,equipment_load,public_equipment_schema_validation_failure,"target_extended_gain=30 and max_loss=0 out of range; duplicate QPSK/16QAM mode instances"
+2.13.0,1,0,equipment_load,public_equipment_schema_validation_failure,"target_extended_gain=30 and max_loss=0 out of range; duplicate QPSK/16QAM mode instances"

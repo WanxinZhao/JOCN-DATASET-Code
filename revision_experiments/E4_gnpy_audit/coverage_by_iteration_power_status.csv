@@ -1,0 +1,9 @@
+iteration,launch_power_dbm,status,records
+1,-5.5,no_signal,8
+1,-5.5,ok,2040
+2,-5.5,no_signal,8
+2,-5.5,ok,2040
+2,-5.0,no_signal,8
+2,-5.0,ok,2040
+2,-4.5,no_signal,8
+2,-4.5,ok,2040

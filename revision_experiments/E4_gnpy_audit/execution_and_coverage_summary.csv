@@ -1,0 +1,2 @@
+executions,expected_unique_configurations,observed_unique_configurations,duplicate_groups,duplicate_rows_beyond_first,missing_expected_configurations,extra_configurations,unique_ok,unique_no_signal,deterministic_enumeration_seconds,scenario_precision,scenario_recall
+8192,6144,6144,2048,2048,0,0,6120,24,0.006307100004050881,1.0,1.0

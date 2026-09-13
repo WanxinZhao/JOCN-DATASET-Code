@@ -1,0 +1,7 @@
+warning_category,total_occurrences,scenarios_affected,severity
+missing_type_variety,8160,8160,schema_default
+missing_pmd,8160,8160,schema_default
+missing_pdl,8160,8160,schema_default
+missing_pmd_coef,8160,8160,schema_default
+edfa_below_min_gain,65280,8160,critical_configuration
+roadm_target_power_unmet,12240,6120,critical_configuration
