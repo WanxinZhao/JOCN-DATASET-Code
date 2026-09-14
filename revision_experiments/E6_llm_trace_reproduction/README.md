@@ -47,6 +47,43 @@ be manually documented if they occur.
 
 ## Current completed reproduction
 
+### Corrected iteration-2 replay (2026-09-14)
+
+The first archived run remains an immutable record of what that run actually
+executed. Subsequent inspection of its saved raw responses established that
+Reflection 1, Planner 2, and all four Scenario Expander 2 paths agreed on
+`[-6.5, -6.0, -5.5] dBm`. The original iteration-2 execution instead used
+`[-5.5, -5.0, -4.5] dBm` because deterministic Reflection post-processing
+derived family-level overrides from a single iteration-1 observation and the
+Scenario Expander gave those overrides precedence. This was a post-processing
+defect, not an LLM-output disagreement.
+
+The corrected replay reused the exact saved calls `call_003`–`call_005` and
+made **zero new LLM API calls**. The Reflection code now declines to infer a
+family sweep from fewer than two observed power values. Scenario expansion
+fails fast if the Planner, Expander, Reflection overrides, and generated
+per-family power sets disagree. Regression tests cover these cases.
+
+The complete corrected second-round replay and its execution evidence are
+archived as
+[`E6_corrected_second_round_20260914.tar.gz`](E6_corrected_second_round_20260914.tar.gz).
+The archive is 21 MiB (SHA-256
+`6d62aedad432140cefb06a652f52fe6e4ecac26bc8d42ac758f4e38db836e52e`).
+The detailed evidence summary is
+[`12_E6_corrected_second_round_replay.md`](../../revision_documents/12_E6_corrected_second_round_replay.md).
+It contains 6,144 second-round scenarios across 2,048 families, each with
+exactly `[-6.5, -6.0, -5.5] dBm` (2,048 records per power). There were 6,120
+`ok` results and 24 `no_signal` results, all for the explicitly all-off
+`00000000` channel pattern; there were no execution failures. The corrected
+combined data contain 8,192 records: the unchanged 2,048 first-round records
+plus the corrected 6,144 second-round records.
+
+For claims about the corrected two-round sweep, use this replay archive and
+report rather than the iteration-2 power values in the original run archive.
+The original archive and its historical logs have not been altered. This
+replay is not a new LLM generation, does not establish Reflection convergence,
+and does not reconstruct missing historical API or human-intervention logs.
+
 The completed new run is `20260913_134829_038619`. It is a **new reproduction**
 and does not recover the unavailable historical provider/model trace. The
 trace and generated data are under the ignored local path

@@ -22,6 +22,25 @@ class ScenarioExpanderAgent:
         self._equipment_cache: Dict[str, Any] | None = None
         self._transceiver_modes_cache: Dict[str, List[Dict[str, Any]]] | None = None
 
+    @staticmethod
+    def _canonical_power_set(values: List[float]) -> tuple[float, ...]:
+        return tuple(sorted({round(float(value), 9) for value in values}))
+
+    @classmethod
+    def _require_matching_power_sets(
+        cls,
+        expected: List[float],
+        actual: List[float],
+        context: str,
+    ) -> None:
+        expected_set = cls._canonical_power_set(expected)
+        actual_set = cls._canonical_power_set(actual)
+        if expected_set != actual_set:
+            raise ValueError(
+                f"Launch-power consistency failure for {context}: "
+                f"expected {list(expected_set)}, received {list(actual_set)}."
+            )
+
     def _load_equipment(self) -> Dict[str, Any]:
         if self._equipment_cache is None:
             _, self._equipment_cache = self._store.load_topology_and_equipment()
@@ -187,6 +206,18 @@ class ScenarioExpanderAgent:
             if path_match is None:
                 continue
 
+            expander_power_sweep = path_match.get("power_sweep_dbm")
+            if (
+                (planner_requested_power_sweep or task_requested_power_sweep)
+                and isinstance(expander_power_sweep, list)
+                and expander_power_sweep
+            ):
+                self._require_matching_power_sets(
+                    [float(value) for value in power_sweep],
+                    [float(value) for value in expander_power_sweep],
+                    f"Planner vs Scenario Expander for {path['destination']}",
+                )
+
             tx_types = path_match.get("transmitter_types")
             if not isinstance(tx_types, list) or not tx_types:
                 tx_types = available_tx_types
@@ -344,6 +375,7 @@ Return JSON:
         blueprint = self._normalize_blueprint(blueprint, task, path_bundle, reflection)
 
         scenarios: List[Dict[str, Any]] = []
+        expected_power_sets: Dict[str, List[float]] = {}
         scenario_index = 1
         max_dataset_points = max(1, int(task.get("max_dataset_points", 50000)))
         truncated = False
@@ -411,6 +443,12 @@ Return JSON:
 
                 family_key = self._scenario_family_key(path["destination"], mode, channel_pattern)
                 family_power_sweep = scenario_power_overrides.get(family_key, family["power_sweep_dbm"])
+                self._require_matching_power_sets(
+                    [float(value) for value in family["power_sweep_dbm"]],
+                    [float(value) for value in family_power_sweep],
+                    f"Reflection override vs Scenario Expander for {family_key}",
+                )
+                expected_power_sets[family_key] = [float(value) for value in family["power_sweep_dbm"]]
                 for power_dbm in family_power_sweep:
                     if len(scenarios) >= max_dataset_points:
                         truncated = True
@@ -457,6 +495,18 @@ Return JSON:
 
         if not scenarios:
             raise ValueError("Scenario expansion produced no executable scenarios.")
+        observed_power_sets: Dict[str, set[float]] = {}
+        for scenario in scenarios:
+            key = str(scenario["scenario_family_key"])
+            observed_power_sets.setdefault(key, set()).add(round(float(scenario["power"]), 9))
+        if set(observed_power_sets) != set(expected_power_sets):
+            raise RuntimeError("Generated scenario families do not match the validated power-set map.")
+        for family_key, observed in observed_power_sets.items():
+            self._require_matching_power_sets(
+                expected_power_sets[family_key],
+                list(observed),
+                f"generated scenarios for {family_key}",
+            )
         if truncated:
             for scenario in scenarios:
                 scenario["dataset_truncated"] = True

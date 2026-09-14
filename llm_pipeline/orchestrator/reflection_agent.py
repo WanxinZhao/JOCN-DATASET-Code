@@ -290,7 +290,9 @@ Return JSON:
 
     def _derive_family_power_overrides(self, analysis: Dict[str, Any], task: Dict[str, Any]) -> Dict[str, list[float]]:
         coarse_sweep = self._observed_power_sweep(analysis)
-        if not coarse_sweep:
+        # A single observed point cannot identify a search direction. Do not
+        # treat it as a boundary and invent a family-level sweep around it.
+        if len(coarse_sweep) < 2:
             return {}
 
         overrides: Dict[str, list[float]] = {}
